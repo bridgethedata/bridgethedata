@@ -12,6 +12,8 @@ Tableau Public https://public.tableau.com/app/profile/bridget6315/vizzes
 
 Work Bio https://www.thedataschool.co.uk/blog/bridget-boateng/
 
+Twitter https://x.com/bridgethedata
+
 #### 🔭 I’m currently working on: 
 
 Summer of SQL portfolio (12-week SQL Learning Course)
