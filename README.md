@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bridget Ama Boateng
 
-<!--
-**bridgethedata/bridgethedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👋 Welcome you to my GitHub portfolio! 👋
 
-Here are some ideas to get you started:
+I am a Certified Microsoft Power BI Data Analyst and Certified Alteryx Advanced expert with over two years of exciting consulting experience! I'm eager to expand my skills in SQL and Python by exploring different projects and challenges! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me: 
+
+LinkedIn https://www.linkedin.com/in/bridget-boateng-81ab011a3/
+
+Tableau Public https://public.tableau.com/app/profile/bridget6315/vizzes
+
+Work Bio https://www.thedataschool.co.uk/blog/bridget-boateng/
+
+#### 🔭 I’m currently working on: 
+
+Summer of SQL portfolio (12-week SQL Learning Course)
+  
+#### 🌱 I’m currently learning:
+
+Python
+
+
