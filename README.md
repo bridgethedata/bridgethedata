@@ -18,10 +18,13 @@ Twitter https://x.com/bridgethedata
 
 #### 🔭 I’m currently working on: 
 
-Summer of SQL portfolio (12-week SQL Learning Course)
-  
-#### 🌱 I’m currently learning:
+Exploring applied AI and workflow automation using Microsoft Copilot and other enterprise AI tools.
+Developing Power BI, Python and automation projects that turn business requirements into practical solutions.
 
-Python
+#### 🌱 I’m currently developing my skills in:
 
+Advanced Python for data analysis and workflow automation
+Generative AI, prompt engineering and Microsoft Copilot
+Power Automate, APIs and low-code automation
+Retrieval-Augmented Generation (RAG) and agentic AI workflows
 
