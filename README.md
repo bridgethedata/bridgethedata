@@ -1,8 +1,10 @@
 # Bridget Ama Boateng
 
- 👋 Welcome you to my GitHub portfolio! 👋
+👋 Welcome to my GitHub portfolio!
 
-I am a Certified Microsoft Power BI Data Analyst and Certified Alteryx Advanced expert with over two years of exciting consulting experience! I'm eager to expand my skills in SQL and Python by exploring different projects and challenges! 
+I am a Microsoft Certified Trainer and data, AI and analytics professional with four years of consulting and training experience. I specialise in Power BI, SQL, Python, Alteryx, Copilot and workflow automation, creating practical solutions that turn complex data into actionable business insights.
+
+I have supported over 1,000 learners and professionals through technical training, coaching and hands-on projects. This portfolio showcases my work across data analytics, visualisation, automation and applied AI.
 
 #### 📫 How to reach me: 
 
